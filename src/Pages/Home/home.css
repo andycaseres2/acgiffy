@@ -1,0 +1,13 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+.home a {
+  color: cornflowerblue;
+  text-decoration: none;
+}
+
+.home a:hover {
+  color: white;
+}

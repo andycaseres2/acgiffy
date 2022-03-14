@@ -1,0 +1,22 @@
+.Gif {
+  margin-bottom: 1.5em;
+  position: relative;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+.Gif {
+  margin-bottom: 0;
+}
